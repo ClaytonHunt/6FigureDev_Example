@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "_6FigureDev_Example"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-_6FigureDev_Example-801a790c-a53b-4f8c-a487-db60e2ed64d2;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
